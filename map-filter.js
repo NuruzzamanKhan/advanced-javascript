@@ -18,5 +18,5 @@ const numbers = [3, 4, 5, 7, 8];
 
 // console.log(result);
 
-const bigger = numbers.filter( x => x > 5);
+const bigger = numbers.filter( x => x < 5);
 console.log(bigger);
